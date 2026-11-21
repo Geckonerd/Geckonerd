@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ethan Mangum
 
-<!--
-**Geckonerd/Geckonerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Ethan Mangum, a student at Brigham Young University-Idaho interested in Software Engineering with an emphasis on development with Object-Oriented Programming. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- My goals are to obtain an internship to further develop my skills while contributing in a professional environment.
+
+## Technologies and Tools
+
+- Proficient in: C++, Python, Java
+- Skills: OOP, File I/O, Test-Driven Development, Software Design
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/ethan-mangum/) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
